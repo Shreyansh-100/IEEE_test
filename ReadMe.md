@@ -1,7 +1,18 @@
 # WELCOME 
 ### Purpose of this Repository
 ---
-**This is a repository associated with IEEE activities and projects related to IEEE . As of now this serves as a test repository**
+1. **This is a repository associated with IEEE activities and projects related to IEEE . As of now this serves as a test repository**
+
+2. **For testing purposes there is a basic ML model alongside its dataset present in the repository.**
+
+## NOTE:
+✅ Task Complete - Archived Repo
+
+This repository contains just the deliverables for a completed task/submission.
+
+- 📌 Not maintained
+- 📁 Archived for reference
+
 
 **About IEEE**
 ---
@@ -15,3 +26,10 @@ Under the guidance of Dr. J. Panda, IEEE DTU organizes numerous events throughou
 IEEE DTU is supported by four specialized chapters—Computer Society (CS), Women in Engineering (WIE), Power & Energy Society – Industrial Applications Society (PES-IAS), and Circuits and Systems Society (CASS). Each chapter plays a vital role in managing and organizing events related to its domain, ensuring a seamless experience while promoting in-depth technical learning.
 In addition to events, IEEE DTU is well-known for its publications, such as ECHO, IOTA, TRIGGER, and The Troika Times, which offer students a platform to showcase their technical knowledge and document the branch’s activities.
 IEEE DTU also provides a robust mentoring system, where students can interact with seniors and alumni placed at top companies like Microsoft and Google, gaining insights and guidance for their future careers. As the oldest and largest society at DTU, IEEE DTU remains committed to fostering innovation, leadership, and personal growth, equipping its members with the skills and knowledge to make a lasting impact in the tech world.
+
+## **About the Model**
+1. This model uses a simple classification based Machine Learning Algorithms to classify whether a bank deposit will be made or not.
+
+2. The model uses GridSearchCV algorithm to figure out the best set of hyperparamaters for the base models Logistic Rgeression and Support Vector Machines. 
+
+3. **📌THIS IS A MODEL  just for testing the functionality of a public repository.** 
